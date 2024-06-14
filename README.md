@@ -3,7 +3,8 @@
 ### Я пишу ботов для приложения Discord на Python.
 
 ### My ass:
-<img src="https://imgur.com/oUpvfFb.png" width="70%">
+<img src="https://imgur.com/oUpvfFb.png" width="30%">
+
 ## About me
              Name - Yliana
              Age - 16.
