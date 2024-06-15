@@ -2,9 +2,6 @@
 
 ### Я пишу ботов для приложения Discord на Python.
 
-### My ass: ( ARINA )
-<img src="https://imgur.com/oUpvfFb.png" width="30%">
-
 ## About me
           к   Name - Yliana
              Age - 16.
