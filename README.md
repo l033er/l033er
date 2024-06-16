@@ -3,7 +3,7 @@
 ### Я пишу ботов для приложения Discord на Python.
 
 ## About me
-          к   Name - Yliana
+             Name - Yliana
              Age - 16.
              Birthday - December 9st.
              Languages - Russian.
