@@ -8,6 +8,9 @@
              Birthday - December 9st.
              Languages - Russian.
              Bot - SweetGPT.
+
+## Stargazers over time
+[![Stargazers over time](https://starchart.cc/end-4/dots-hyprland.svg?variant=adaptive)](https://starchart.cc/end-4/dots-hyprland)
              
 ## 💻 IDEs/Editors
   ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
