@@ -1,9 +1,9 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%e292ee&lines=Hi!+My+name+is+Yliana!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%e292ee&lines=Hi!+My+name+is+Danya!)
 
 ### Я пишу ботов для приложения Discord на Python.
 
 ## About me
-             Name - Yliana
+             Name - Danya
              Age - 16.
              Birthday - December 9st.
              Languages - Russian.
