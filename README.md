@@ -4,7 +4,7 @@
 
 ## About me
              Name - Danya
-             Age - 16.
+             Age - 11.
              Birthday - December 9st.
              Languages - Russian.
              Bot - SweetGPT.
