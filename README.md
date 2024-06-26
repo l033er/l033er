@@ -4,10 +4,10 @@
 
 ## About me
              Name - Danya
-             Age - 11.
-             Birthday - December 9st.
-             Languages - Russian.
-             Bot - SweetGPT.
+             Age - 8.
+             Birthday - December 1st.
+             Languages - Russian, Ukraina.
+             Bot - SweetGPT > neoptex ( разробатываю ) .
 
 ## Stargazers over time
 [![Stargazers over time](https://starchart.cc/end-4/dots-hyprland.svg?variant=adaptive)](https://starchart.cc/end-4/dots-hyprland)
