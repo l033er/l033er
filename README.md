@@ -1,11 +1,8 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%e292ee&lines=Hi!+My+name+is+Danya!)
 
-### Я пишу ботов для приложения Discord на Python.
+![Header](https://share.creavite.co/66876291567f9b6227d919fe.gif)
 
-## Мой номер 
-```
-+62 858 81675808
-```
+### Я пишу ботов для приложения Discord на Python.
 
 ## About me
              Name - Danya
@@ -15,11 +12,12 @@
              Bot - SweetGPT > neoptex ( разробатываю ) .
 
 ## 📋 Languages
-  [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
-  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-  ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-  
+![Javascript](https://img.shields.io/badge/-Javascript-090909?style=for-the-badge&logo=javascript)
+![Python](https://img.shields.io/badge/-python-090909?style=for-the-badge&logo=python)
+![node.js](https://img.shields.io/badge/-node.js-090909?style=for-the-badge&logo=node.js)
+![LINUX](https://img.shields.io/badge/-linux-090909?style=for-the-badge&logo=linux)
+![mysql](https://img.shields.io/badge/-mysql-090909?style=for-the-badge&logo=SQL)
+
 ## 💻 IDEs/Editors
   ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 
