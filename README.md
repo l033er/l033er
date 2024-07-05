@@ -1,7 +1,5 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%e292ee&lines=Hi!+My+name+is+Danya!)
 
-![Header](https://share.creavite.co/66876291567f9b6227d919fe.gif)
-
 ### Я пишу ботов для приложения Discord на Python.
 
 ## About me
