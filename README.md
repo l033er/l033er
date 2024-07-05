@@ -13,14 +13,13 @@
 ![Javascript](https://img.shields.io/badge/-Javascript-090909?style=for-the-badge&logo=javascript)
 ![Python](https://img.shields.io/badge/-python-090909?style=for-the-badge&logo=python)
 ![node.js](https://img.shields.io/badge/-node.js-090909?style=for-the-badge&logo=node.js)
-![LINUX](https://img.shields.io/badge/-linux-090909?style=for-the-badge&logo=linux)
 ![mysql](https://img.shields.io/badge/-mysql-090909?style=for-the-badge&logo=SQL)
 
 ## 💻 IDEs/Editors
   ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 
 ## 🎛️ Operating System
-  ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![LINUX](https://img.shields.io/badge/-linux-090909?style=for-the-badge&logo=linux)
 
 ## Stargazers over time
 [![Stargazers over time](https://starchart.cc/end-4/dots-hyprland.svg?variant=adaptive)](https://starchart.cc/end-4/dots-hyprland)
