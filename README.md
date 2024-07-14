@@ -1,13 +1,13 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%e292ee&lines=Hi!+My+name+is+Danya!)
-
-### Я пишу ботов для приложения Discord на Python.
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Condensed&weight=900&size=30&duration=3000&pause=800&color=FF8000&background=FFFFFF00&center=true&random=false&width=435&lines=HELLO+EVERYONE!;I'M+-+ALPROZOLAM;TELEGRAM+AND+DISCORD+BOTS" />
+</h1>
 
 ## About me
-             Name - Danya
-             Age - 8.
+             Name - ALPROZOLAM 
+             Age - 16.
              Birthday - December 1st.
-             Languages - Russian, Ukraina.
-             Bot - SweetGPT > neoptex ( разробатываю ) .
+             Languages - Russian.
+             Bot - neoptex, savver.
 
 ## 📋 Languages
 ![Javascript](https://img.shields.io/badge/-Javascript-090909?style=for-the-badge&logo=javascript)
