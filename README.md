@@ -2,11 +2,17 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Condensed&weight=900&size=30&duration=3000&pause=800&color=FF8000&background=FFFFFF00&center=true&random=false&width=435&lines=HELLO+EVERYONE!;I'M+-+ALPROZOLAM;TELEGRAM+AND+DISCORD+BOTS" />
 </h1>
 
-## 📋 Languages
+<h3 align="center">📋 Languages 📋 </h3>
+
 ![Javascript](https://img.shields.io/badge/-Javascript-090909?style=for-the-badge&logo=javascript)
 ![Python](https://img.shields.io/badge/-python-090909?style=for-the-badge&logo=python)
 ![node.js](https://img.shields.io/badge/-node.js-090909?style=for-the-badge&logo=node.js)
 ![mysql](https://img.shields.io/badge/-mysql-090909?style=for-the-badge&logo=SQL)
+
+<h3 align="center">💻 IDEs/Editors 💻</h3>
+
+<br/>
+<div align="center">
 
 ## 💻 IDEs/Editors
   ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
