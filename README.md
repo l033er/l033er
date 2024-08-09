@@ -69,15 +69,6 @@
     </td>
 
 </table>
-
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yahshield&show_icons=true&theme=radical)
-
-
-## Contact:
-
-
-### **[>] [Telegram](https://t.me/happispython)**
-
 <br>
 
