@@ -70,5 +70,5 @@
 
 </table>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?yahshield=anuraghazra&show_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?yahshield&show_icons=true&theme=transparent)
 
