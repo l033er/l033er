@@ -1,12 +1,12 @@
-<p align="center"><img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="750" height="500"></p>
+</p>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&pause=500&color=F78A13&center=true&random=false&width=1000&height=100&lines=LazyDev" alt="Typing SVG" /></a>
 
 # Short Biography
 
-`DevOps` `DevSecOps` `Python Developer`    
+`S@VV3R` `N1GHT` `Python Developer`    
 
-I am a Self-Trained Backend Developer from Ukraine, with 4 years of coding experience.  
+I am a Self-Trained Full-Stack Developer from Russia, with 6 years of coding experience.
 <br>
 [![Skills](https://skillicons.dev/icons?i=python,js,sqlite,mongodb,vscode,windows,arch,docker,git)](https://skillicons.dev)
 
