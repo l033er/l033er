@@ -20,7 +20,7 @@
         <h2>Operating Systems</h2>
         <p>
             <a href="https://skillicons.dev">
-                <img src="https://skillicons.dev/icons?i=arch,fedora,arch" alt="Operating Systems">
+                <img src="https://skillicons.dev/icons?i=windows,arch" alt="Operating Systems">
             </a>
         </p>
     </div>
