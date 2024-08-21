@@ -32,7 +32,4 @@
         <p>
             <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yahshield&theme=tokyonight" alt="Profile Details">
         </p>
-        <p>
-            <img src="https://strech-stats.demolab.com?user=yahshield&theme=dracula&border_radius=4.5" alt="Streak Stats">
-        </p>
-    </div>
+</div>
