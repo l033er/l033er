@@ -14,7 +14,12 @@
         <br>
         <p>
             <a href="https://skillicons.dev">
-                <img src="https://skillicons.dev/icons?i=python,fastapi,pytorch,js,ts,vue,solidjs,sqlite,mongodb,vscode,github,docker,git,figma" alt="Skills">
+                <img src="https://skillicons.dev/icons?i=python,fastapi,pytorch" alt="Python">
+            </a>
+        </p>
+        <p>
+            <a href="https://skillicons.dev">
+                <img src="https://skillicons.dev/icons?i=js,ts,vue,solidjs,sqlite,mongodb,vscode,github,docker,git,figma" alt="Skills">
             </a>
         </p>
         <p>
