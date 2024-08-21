@@ -13,25 +13,21 @@
         </p>
         <br>
         <p>
-            <p>Python</p>
             <a href="https://skillicons.dev">
                 <img src="https://skillicons.dev/icons?i=python,fastapi,pytorch" alt="Python">
             </a>
         </p>
         <p>
-            <p>JavaScripts</p>
             <a href="https://skillicons.dev">
                 <img src="https://skillicons.dev/icons?i=js,ts,vue,solidjs,nuxtjs" alt="JavaScript assets">
             </a>
         </p>
         <p>
-            <p>Stack</p>
             <a href="https://skillicons.dev">
                 <img src="https://skillicons.dev/icons?i=sqlite,mongodb,vscode,github,docker,git,figma" alt="Skills">
             </a>
         </p>
         <p>
-            <p>Operating Systems</p>
             <a href="https://skillicons.dev">
                 <img src="https://skillicons.dev/icons?i=nix,arch,mint" alt="Operating Systems">
             </a>
