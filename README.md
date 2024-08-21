@@ -14,7 +14,7 @@
         <br>
         <p>
             <a href="https://skillicons.dev">
-                <img src="https://skillicons.dev/icons?i=python,js,ts,react,vue,aiscript,sqlite,mongodb,vscode,windows,arch,docker,git" alt="Skills">
+                <img src="https://skillicons.dev/icons?i=python,js,ts,react,vue,sqlite,mongodb,vscode,windows,arch,docker,git" alt="Skills">
             </a>
         </p>
     </div>
@@ -23,6 +23,9 @@
         <h2>GitHub Stats</h2>
         <p>
             <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yahshield&theme=tokyonight" alt="Profile Details">
+        </p>
+        <p>
+            <img src="https://strech-stats.demolab.com?user=yahshield&theme=dracula&border_radius=4.5" alt="Streak Stats">
         </p>
     </div>
 </p>
