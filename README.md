@@ -17,7 +17,6 @@
                 <img src="https://skillicons.dev/icons?i=python,js,ts,react,vue,sqlite,mongodb,vscode,github,docker,git" alt="Skills">
             </a>
         </p>
-        <h2>Operating Systems</h2>
         <p>
             <a href="https://skillicons.dev">
                 <img src="https://skillicons.dev/icons?i=windows,arch" alt="Operating Systems">
