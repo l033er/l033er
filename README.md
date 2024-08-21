@@ -1,6 +1,8 @@
 </p>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&pause=500&color=F78A13&center=true&random=false&width=1000&height=100&lines=LazyDev" alt="Typing SVG" /></a>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Condensed&weight=900&size=30&duration=3000&pause=800&color=FF8000&background=FFFFFF00&center=true&random=false&width=435&lines=HELLO+EVERYONE!;I'M+-+S@VV3R;TELEGRAM+AND+DISCORD+BOTS" />
+</h1>
 
 # Short Biography
 
