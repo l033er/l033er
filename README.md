@@ -29,7 +29,7 @@
         </p>
         <p>
             <a href="https://skillicons.dev">
-                <img src="https://skillicons.dev/icons?i=windows,arch" alt="Operating Systems">
+                <img src="https://skillicons.dev/icons?i=nix,arch,mint" alt="Operating Systems">
             </a>
         </p>
     </div>
