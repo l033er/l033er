@@ -13,25 +13,25 @@
         </p>
         <br>
         <p>
-            <h1>Python</h1>
+            <p>Python</p>
             <a href="https://skillicons.dev">
                 <img src="https://skillicons.dev/icons?i=python,fastapi,pytorch" alt="Python">
             </a>
         </p>
         <p>
-            <h1>JavaScripts</h1>
+            <p>JavaScripts</p>
             <a href="https://skillicons.dev">
                 <img src="https://skillicons.dev/icons?i=js,ts,vue,solidjs,nuxtjs" alt="JavaScript assets">
             </a>
         </p>
         <p>
-            <h1>Stack</h1>
+            <p>Stack</p>
             <a href="https://skillicons.dev">
                 <img src="https://skillicons.dev/icons?i=sqlite,mongodb,vscode,github,docker,git,figma" alt="Skills">
             </a>
         </p>
         <p>
-            <h1>Operating Systems</h1>
+            <p>Operating Systems</p>
             <a href="https://skillicons.dev">
                 <img src="https://skillicons.dev/icons?i=nix,arch,mint" alt="Operating Systems">
             </a>
