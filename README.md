@@ -19,7 +19,12 @@
         </p>
         <p>
             <a href="https://skillicons.dev">
-                <img src="https://skillicons.dev/icons?i=js,ts,vue,solidjs,sqlite,mongodb,vscode,github,docker,git,figma" alt="Skills">
+                <img src="https://skillicons.dev/icons?i=js,ts,vue,solidjs,nuxtjs" alt="JavaScript assets">
+            </a>
+        </p>
+        <p>
+            <a href="https://skillicons.dev">
+                <img src="https://skillicons.dev/icons?i=sqlite,mongodb,vscode,github,docker,git,figma" alt="Skills">
             </a>
         </p>
         <p>
