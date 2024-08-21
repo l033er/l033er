@@ -17,7 +17,15 @@
                 <img src="https://skillicons.dev/icons?i=python,js,ts,react,vue,sqlite,mongodb,vscode,windows,arch,docker,git" alt="Skills">
             </a>
         </p>
+        <h2>Operating Systems</h2>
+        <p>
+            <a href="https://skillicons.dev">
+                <img src="https://skillicons.dev/icons?i=windows,arch" alt="Operating Systems">
+            </a>
+        </p>
     </div>
+    
+
 
 <div align="center">
         <h2>GitHub Stats</h2>
@@ -28,13 +36,3 @@
             <img src="https://strech-stats.demolab.com?user=yahshield&theme=dracula&border_radius=4.5" alt="Streak Stats">
         </p>
     </div>
-
-<div align="center">
-        <h2>Operating Systems</h2>
-        <p>
-            <a href="https://skillicons.dev">
-                <img src="https://skillicons.dev/icons?i=windows,arch" alt="Operating Systems">
-            </a>
-        </p>
-    </div>
-</p>
