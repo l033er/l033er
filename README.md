@@ -16,5 +16,5 @@ I am a Self-Trained Full-Stack Developer from Russia, with 6 years of coding exp
 
 <p align="center">
    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yahshield&theme=tokyonight">
+   <img src="https://streak-stats.demolab.com?user=yahshield&theme=dracula&border_radius=4.5">
 </p>
-![GitHub Streak](https://streak-stats.demolab.com?user=yahshield&theme=dracula&border_radius=4.5) 
