@@ -11,6 +11,7 @@
         <p>
             I am a Self-Trained Full-Stack Developer from Russia, with 6 years of coding experience.
         </p>
+        <p align="center"><img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true" /></p>
         <br>
         <p>
             <a href="https://skillicons.dev">
