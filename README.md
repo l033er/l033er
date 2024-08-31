@@ -34,6 +34,3 @@
             </a>
         </p>
     </div>
-
-    
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=l033er&repo=unixcord)](https://github.com/l033er/unixcord)
