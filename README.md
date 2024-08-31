@@ -36,10 +36,3 @@
     </div>
     
 
-
-<div align="center">
-        <h2>My stats</h2>
-        <p>
-            <p align="center"><img src="https://myreadme.vercel.app/api/embed/l033er?panels=userstatistics,toplanguages,commitgraph,toprepositories"/></p>
-        </p>
-</div>
