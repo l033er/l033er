@@ -30,10 +30,10 @@
         </p>
     </div>
     <div>
-        <h3>Учу и планирую выучить</h3>
+        <h3>Всякая штука</h3>
         <p>
             <a href="https://skillicons.dev">
-                <img src="https://skillicons.dev/icons?i=sqlite,mongodb,docker,git,figma" alt="Skills and Operating Systems">
+                <img src="https://skillicons.dev/icons?i=sqlite,mongodb,docker,git,figma,vscode,github,nix,arch,mint" alt="Skills and Operating Systems">
             </a>
         </p>
     </div>
