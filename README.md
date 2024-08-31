@@ -33,7 +33,7 @@
         <h3>Учу и планирую выучить</h3>
         <p>
             <a href="https://skillicons.dev">
-                <img src="https://skillicons.dev/icons?i=sqlite,mongodb,vscode,github,docker,git,figma,nix,arch,mint" alt="Skills and Operating Systems">
+                <img src="https://skillicons.dev/icons?i=sqlite,mongodb,docker,git,figma" alt="Skills and Operating Systems">
             </a>
         </p>
     </div>
