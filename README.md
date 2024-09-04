@@ -57,10 +57,10 @@
 
 <div align="center">
     <p>
-        <a href="https://github.com/S@VV3R">
+        <a href="https://github.com/l033er">
             <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
         </a>
-        <a href="https://t.me/S@VV3R">
+        <a href="https://t.me/l033er">
             <img src="https://img.shields.io/badge/Telegram-Contact-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
         </a>
     </p>
@@ -68,6 +68,6 @@
 
 <div align="center">
     <p>
-        <img src="https://komarev.com/ghpvc/?username=S@VV3R&color=blueviolet" alt="Profile Views">
+        <img src="https://komarev.com/ghpvc/?username=l033er&color=blueviolet" alt="Profile Views">
     </p>
 </div>
