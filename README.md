@@ -80,22 +80,6 @@
 <div align="center">
     <p>
         <a href="https://github.com/l033er?tab=repositories">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=l033er&layout=compact&theme=dark" alt="Top Languages">
-        </a>
-    </p>
-</div>
-
-<div align="center">
-    <p>
-        <a href="https://github.com/l033er?tab=repositories">
-            <img src="https://github-readme-stats.vercel.app/api?username=l033er&show_icons=true&theme=dark" alt="GitHub Stats">
-        </a>
-    </p>
-</div>
-
-<div align="center">
-    <p>
-        <a href="https://github.com/l033er?tab=repositories">
             <img src="https://github-readme-streak-stats.herokuapp.com/?user=l033er&theme=dark" alt="GitHub Streak">
         </a>
     </p>
