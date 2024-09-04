@@ -7,10 +7,11 @@
 <div align="center">
     <h2>Short Biography</h2>
     <p>
-        <code>S@VV3R</code> <code>N1GHT</code> <code>Python Developer</code>    
+        My main programming language is Python, which I use to automate various processes,
+							create scripts and bots.
     </p>
     <p>
-        I am a Self-Trained Full-Stack Developer from Russia, with 6 years of coding experience.
+        I'm l033er Developer, immersed in programming for more than 4 years now.
     </p>
     <p align="center"><img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true" /></p>
     <br>
