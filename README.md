@@ -16,7 +16,6 @@
 </div>
 
 <div align="center">
-    <table>
         <tr>
             <td align="center">
                 <h3>Backend</h3>
@@ -63,20 +62,8 @@
                 </p>
             </td>
         </tr>
-    </table>
 </div>
-
-<div align="center">
-    <p>
-        <a href="https://github.com/l033er">
-            <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-        </a>
-        <a href="https://t.me/l033er">
-            <img src="https://img.shields.io/badge/Telegram-Contact-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
-        </a>
-    </p>
-</div>
-
+        
 <div align="center">
     <p>
         <a href="https://github.com/l033er?tab=repositories">
