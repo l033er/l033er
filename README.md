@@ -79,12 +79,6 @@
 
 <div align="center">
     <p>
-        <img src="https://komarev.com/ghpvc/?username=l033er&color=blueviolet" alt="Profile Views">
-    </p>
-</div>
-
-<div align="center">
-    <p>
         <a href="https://github.com/l033er?tab=repositories">
             <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=l033er&layout=compact&theme=dark" alt="Top Languages">
         </a>
