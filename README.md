@@ -7,8 +7,8 @@
 <div align="center">
     <h2>Short Biography</h2>
     <p>
-        My main programming language is Python, which I use to automate various processes,
-							create scripts and bots.
+        <code>My main programming language is Python, which I use to automate various processes,
+							create scripts and bots. </code>
     </p>
     <p>
         I'm l033er Developer, immersed in programming for more than 4 years now.
