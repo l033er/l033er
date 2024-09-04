@@ -8,8 +8,6 @@
     <h2>Short Biography</h2>
     <p>
         I'm l033er Developer, immersed in programming for more than 4 years now.
-	            My main programming language is Python, which I use to automate various processes,
-							                      create scripts and bots
     </p>
     <p align="center"><img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true" /></p>
     <br>
