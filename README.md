@@ -17,7 +17,7 @@
         <h3>Backend</h3>
         <p>
             <a href="https://skillicons.dev">
-                <img src="https://skillicons.dev/icons?i=python,fastapi,pytorch" alt="Python">
+                <img src="https://skillicons.dev/icons?i=python,fastapi,pytorch,nodejs,express" alt="Python, FastAPI, PyTorch, Node.js, Express">
             </a>
         </p>
     </div>
@@ -25,16 +25,49 @@
         <h3>Frontend</h3>
         <p>
             <a href="https://skillicons.dev">
-                <img src="https://skillicons.dev/icons?i=js,ts,vue,solidjs,nuxtjs" alt="JavaScript assets">
+                <img src="https://skillicons.dev/icons?i=js,ts,vue,solidjs,nuxtjs,react,angular" alt="JavaScript, TypeScript, Vue, SolidJS, NuxtJS, React, Angular">
             </a>
         </p>
     </div>
     <div>
-        <h3>Всякая штука</h3>
+        <h3>Tools & Databases</h3>
         <p>
             <a href="https://skillicons.dev">
-                <img src="https://skillicons.dev/icons?i=sqlite,mongodb,docker,git,figma,vscode,github,nix,arch,mint" alt="Skills and Operating Systems">
+                <img src="https://skillicons.dev/icons?i=sqlite,mongodb,docker,git,figma,vscode,github,nix" alt="SQLite, MongoDB, Docker, Git, Figma, VSCode, GitHub, Nix">
             </a>
         </p>
     </div>
+    <div>
+        <h3>Operating Systems</h3>
+        <p>
+            <a href="https://skillicons.dev">
+                <img src="https://skillicons.dev/icons?i=arch,mint,linux" alt="Arch, Mint, Linux">
+            </a>
+        </p>
+    </div>
+    <div>
+        <h3>Additional Skills</h3>
+        <p>
+            <a href="https://skillicons.dev">
+                <img src="https://skillicons.dev/icons?i=aws,azure,gcp,kubernetes,grafana,prometheus" alt="AWS, Azure, GCP, Kubernetes, Grafana, Prometheus">
+            </a>
+        </p>
+    </div>
+</div>
+
+<div align="center">
+    <p>
+        <a href="https://github.com/S@VV3R">
+            <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+        </a>
+        <a href="https://t.me/S@VV3R">
+            <img src="https://img.shields.io/badge/Telegram-Contact-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+        </a>
+    </p>
+</div>
+
+<div align="center">
+    <p>
+        <img src="https://komarev.com/ghpvc/?username=S@VV3R&color=blueviolet" alt="Profile Views">
+    </p>
 </div>
