@@ -30,7 +30,7 @@ Welcome to my GitHub corner! 🚀 Here, I share my journey, projects, and expert
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=l033er&theme=radical&hide_border=true" width="45%">
-  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent" width="45%">
+   <img src="https://github-readme-stats.vercel.app/api?username=l033er&show_icons=true&theme=transparent" width="45%">
 </p>
 
 ---
