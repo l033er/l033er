@@ -4,8 +4,6 @@
 
 Welcome to my GitHub corner! 🚀 Here, I share my journey, projects, and expertise in programming, Kali Linux, and software development.
 
-![Header Image](https://i.imgur.com/3QZQZ9m.gif) <!-- Замените ссылку на свою красивую картинку или гифку -->
-
 ## 🧑‍💻 About Me
 
 </div>
@@ -39,18 +37,6 @@ Welcome to my GitHub corner! 🚀 Here, I share my journey, projects, and expert
 
 ---
 
-### 🎨 Featured Projects
-
-<div align="center">
-  <a href="https://github.com/l033er/UnixCord">
-    <img src="https://i.imgur.com/5XZQZ9m.png" width="300" alt="UnixCord Project"> <!-- Замените ссылку на изображение вашего проекта -->
-  </a>
-</div>
-
----
-
 _"May your code be clean, your systems stable, and your bugs minimal!"_ ✨
-
-![Footer Image](https://i.imgur.com/7XZQZ9m.gif) <!-- Замените ссылку на свою гифку или картинку -->
 
 </div>
