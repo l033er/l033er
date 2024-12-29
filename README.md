@@ -2,7 +2,8 @@
 
 # Hello! I'm MILL3ER aka L033ER 👋
 
-Welcome to my GitHub corner! 🚀 Here, I share my journey, projects, and expertise in programming, Kali Linux, and software development.
+Welcome to my GitHub corner! 🚀 
+Here, I share my journey, projects, and expertise in programming, Kali Linux, and software development.
 
 ## 🧑‍💻 About Me
 
