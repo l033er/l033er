@@ -20,8 +20,7 @@ Welcome to my GitHub corner! 🚀 Here, I share my journey, projects, and expert
 
 <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=python,typescript,nodejs,react,nextjs,tailwind,postgres,mongodb,aws,docker,kubernetes,git,github,linux,vscode" alt="Development Stack" />
-      <img src="https://skillicons.dev/icons?i=bash,linux,kali,vim,git,c,rust,go,flask,selenium,postman" alt="Hacker Stack" />
+      <img src="https://skillicons.dev/icons?i=python,typescript,nodejs,react,nextjs,tailwind,postgres,mongodb,docker,kubernetes,git,linux,vscode" alt="Development Stack" />
     </a>
 </p>
 
