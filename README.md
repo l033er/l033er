@@ -7,7 +7,6 @@
 Welcome to my GitHub corner! 🚀  
 Here, I share my journey, projects, and expertise in programming, Kali Linux, and software development.
 
-</div>
 ## 🧑‍💻 About Me
 
 </div>
