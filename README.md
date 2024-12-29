@@ -29,8 +29,8 @@ Welcome to my GitHub corner! 🚀 Here, I share my journey, projects, and expert
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=l033er&show_icons=true&theme=radical" width="45%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=l033er&layout=compact&theme=radical" width="35%">
+  <img src="https://github-readme-stats.vercel.app/api?username=l033er&show_icons=true&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true" width="45%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=l033er&layout=compact&theme=nightowl&hide_border=true&langs_count=6" width="35%">
 </p>
 
 ---
