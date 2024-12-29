@@ -2,26 +2,41 @@
 
 # Hello! I'm MILL3ER aka L033ER 👋
 
-Welcome to my GitHub corner! 🚀 Here, I share my experiences and projects in the world of programming, along with my expertise in Kali Linux and software development.
+Welcome to my GitHub corner! 🚀 Here, I share my journey, projects, and expertise in programming, Kali Linux, and software development.
 
 ## 🧑‍💻 About Me
+
 </div>
 
-- 💻 I work as a programmer and love writing clean, readable code.
-- 🛠 No snake_case! Only kebab-case, PascalCase and camelCase
-- 🐧 A dedicated **NixOS** user — I value minimalism, stability, and control.
-- 🎯 In my free time, I work on personal projects like **UnixCord**.
-  
+- 💻 **Programmer** passionate about crafting clean, maintainable, and efficient code.
+- 🛠 **Code Style Advocate**: No `snake_case`! Only `kebab-case`, `PascalCase`, and `camelCase`.
+- 🐧 **NixOS Enthusiast**: Embracing minimalism, stability, and full control over my system.
+- 🎯 **Project Enthusiast**: Working on personal projects like **UnixCord** in my free time.
+- 🌱 **Always Learning**: Exploring new technologies and improving my skills daily.
+
 <div align="center">
+
+## 🛠️ Tech Stack
+
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+![NixOS](https://img.shields.io/badge/NixOS-5277C3?style=for-the-badge&logo=nixos&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=l033er&show_icons=true&theme=radical" width="35%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=l033er&layout=compact&theme=radical" width="30%">
+  <img src="https://github-readme-stats.vercel.app/api?username=l033er&show_icons=true&theme=radical" width="45%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=l033er&layout=compact&theme=radical" width="35%">
 </p>
 
 ---
 
-_"May your ~woes be many~ code be clean and your ~days few~ systems stable!"_ ✨
+_"May your code be clean, your systems stable, and your bugs minimal!"_ ✨
+
 </div>
