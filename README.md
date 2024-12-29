@@ -16,13 +16,15 @@ Welcome to my GitHub corner! 🚀 Here, I share my journey, projects, and expert
 
 <div align="center">
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack 🍼
 
 <p align="center">
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=python,typescript,nodejs,react,nextjs,tailwind,postgres,mongodb,aws,docker,kubernetes,git,github,linux,vscode" alt="Tech Stack" />
     </a>
 </p>
+
+<sub><sup>👶 P.S.: Даже малыш знает, что Python и JavaScript — это весело!</sup></sub>
 
 ## 📊 GitHub Stats
 
