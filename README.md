@@ -28,12 +28,12 @@ Welcome to my GitHub corner! 🚀 Here, I share my journey, projects, and expert
 
 ## 📊 GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=l033er&theme=radical&hide_border=true" width="45%">
+  <img src="https://streak-stats.demolab.com?user=l033er&theme=radical&hide_border=true" width="45%">
+</p>
 [![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=cf5a87eb959b044f7030aff58c31e86f&theme=radical&hide_border=true&show_owner=true)](https://gist.github.com/l033er/cf5a87eb959b044f7030aff58c31e86f)
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=l033er&theme=radical&hide_border=true" width="45%">
-  <img src="https://github-readme-stats.vercel.app/api?username=l033er&theme=radical&hide_border=true" width="45%">
-</p>
 
 ---
 
