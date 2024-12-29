@@ -29,11 +29,8 @@ Welcome to my GitHub corner! 🚀 Here, I share my journey, projects, and expert
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=l033er&theme=react-dark&hide_border=true&area=true" width="80%">
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=l033er&theme=radical&hide_border=true" width="45%">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=l033er&theme=react-dark&hide_border=true&area=true" width="45%">
 </p>
 
 ---
