@@ -18,9 +18,9 @@ Welcome to my GitHub corner! 🚀 Here, I share my journey, projects, and expert
 
 ## 🛠️ Tech Stack
 
-<p>
+<p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=python,js,sqlite,mongodb,vscode,windows,arch,docker,git" alt="Skills">
+      <img src="https://skillicons.dev/icons?i=python,typescript,nodejs,react,nextjs,tailwind,postgres,mongodb,aws,docker,kubernetes,git,github,linux,vscode" alt="Tech Stack" />
     </a>
 </p>
 
