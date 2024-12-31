@@ -30,8 +30,8 @@ Here, I share my journey, projects, and expertise in programming, Kali Linux, an
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=l033er&theme=radical&hide_border=true&show_icons=true&count_private=true" width="40%">
-  <img src="https://streak-stats.demolab.com?user=l033er&theme=radical&hide_border=true" width="40%">
+  <img src="https://github-readme-stats.vercel.app/api?username=l033er&theme=rose_pine&hide_border=true&show_icons=true&count_private=true" width="40%">
+  <img src="https://streak-stats.demolab.com?user=l033er&theme=rose_pine&hide_border=true" width="40%">
 </p>
 
 ---
