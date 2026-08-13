@@ -6,13 +6,10 @@
 
 Привет! Меня зовут Илья (в сети **sinvides**). Пишу код на JavaScript/TypeScript, собираю веб-приложения на Next.js и React, занимаюсь серверной логикой на Node.js, а также разрабатываю плагины для Minecraft (Spigot/Paper). Люблю, когда у проекта не только работающий код, но и аккуратный интерфейс — поэтому много времени уделяю дизайну и юзабилити. Работаю на Linux, собираю всё в Docker, держу код в Git.
 
----
 
 ## 💻 Мой стек
 
 <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,tailwind,java,docker,linux,git,github,bash,vscode&theme=dark" alt="Tech Stack"/>
-
----
 
 ## 🚀 Проекты
 
@@ -20,8 +17,6 @@
 |--------|----------|
 | **🛒 DeltShield** | Донат-магазин для Minecraft «под ключ»: сайт на Next.js (корзина, промокоды, личный кабинет, админ-панель, вход через Discord) + плагины DeltPlugin и DeltaTAB на Java |
 
----
 
 <img src="https://komarev.com/ghpvc/?username=novvyim&style=for-the-badge&color=7C3AED" alt="Profile Views"/>
-
 </div>
