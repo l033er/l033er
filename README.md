@@ -1,12 +1,6 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:7C3AED,35:A855F7,70:EC4899,100:06B6D4&text=sinvides&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="Header"/>
-
-# Веб-разработчик • UI-дизайнер • Linux-энтузиаст
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:7C3AED,35:A855F7,70:EC4899,100:06B6D4&text=sinvides&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="Header"/>
 </div>
-
----
 
 ## 👋 Обо мне
 
